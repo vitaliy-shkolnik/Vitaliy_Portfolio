@@ -8,7 +8,7 @@
 
 **Followup:** <br />
 •	Created two separate mini-game engines to expand on principles from the animator project.<br />
-•	Introduced active input, interaction with objects, switches, and screen movement.
+•	Introduced active input, interaction with objects, switches, and screen movement. <br />
 
 Video Demo 1: https://youtu.be/nOJP3kSv3BE <br />
 Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
