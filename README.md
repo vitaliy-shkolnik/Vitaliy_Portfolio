@@ -27,7 +27,7 @@ Refer to APPENDIX for model diagram.
 ![](AI_project.png)
 
 
-**Project 3: Insurance NLP: Project Overview, Work in Progress **
+**Project 3: Insurance NLP: Project Overview, Work in Progress**
 • Language: Python
 • Description: Pre-process real unstructured data (100k entries) from an insurance company and automate the process of taking reported injuries and categorizing them     correctly. The project aims to accurately predict the cause of injury using short free-form text descriptions.
 
