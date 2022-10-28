@@ -4,14 +4,14 @@
 •	Description: Create an animator model, view, and controller using OOP principles. <br />
 •	Model takes in .txt file, parses it, and outputs an animation. <br />
    
-
+Video Demo 1: https://www.youtube.com/watch?v=ieRlmtfOmyU
 
 **Followup:** <br />
 •	Created two separate mini-game engines to expand on principles from the animator project.<br />
 •	Introduced active input, interaction with objects, switches, and screen movement. <br />
 
-Video Demo 1: https://youtu.be/nOJP3kSv3BE <br />
-Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
+Video Demo 2: https://youtu.be/nOJP3kSv3BE <br />
+Video Demo 3: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
 
 **Project 2: Reinforced Learning for Omok: Project Overview**  <br />
