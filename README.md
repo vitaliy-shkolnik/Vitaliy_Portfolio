@@ -31,10 +31,10 @@ Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 • Language: Python  <br />
 • Description: Pre-process real unstructured data (100k entries) from an insurance company and automate the process of taking reported injuries and categorizing them     correctly. The project aims to accurately predict the cause of injury using short free-form text descriptions.  <br />
 
-    Pre-Processing Data: Under/Over Sampling, CrossFold Validation, count/tf-idf vectorization
-    Data Exploration: T-SNE mapping, Word2Vec
-    Models: Naive Bayes, Support Vector Machine, XGboost
-    Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy
+  Pre-Processing Data: Under/Over Sampling, CrossFold Validation, count/tf-idf vectorization
+  Data Exploration: T-SNE mapping, Word2Vec
+  Models: Naive Bayes, Support Vector Machine, XGboost
+  Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy
 
 
 
