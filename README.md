@@ -7,19 +7,17 @@ Computer Science Projects
 **Project 1: MVC Animator Player: Project Overview**
 
 •	Language: Java 
-
 •	Description: Create an animator model, view, and controller using OOP principles.
-
 •	Model takes in .txt file, parses it, and outputs an animation.
    
 Refer to APPENDIX for model diagram. 
 
-**Followup:**
-•	Created two separate mini-game engines to expand on principles from the animator project.
-•	Introduced active input, interaction with objects, switches, and screen movement.
+   **Followup:**
+   •	Created two separate mini-game engines to expand on principles from the animator project.
+   •	Introduced active input, interaction with objects, switches, and screen movement.
 
-  Video Demo 1: https://youtu.be/nOJP3kSv3BE
-  Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
+     Video Demo 1: https://youtu.be/nOJP3kSv3BE
+     Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
 
 **Project 2: Reinforced Learning for Omok: Project Overview**
