@@ -11,12 +11,12 @@ Computer Science Projects
    
 Refer to APPENDIX for model diagram. 
 
- **Followup:**
-   •	Created two separate mini-game engines to expand on principles from the animator project.
-   •	Introduced active input, interaction with objects, switches, and screen movement.
+**Followup:**
+•	Created two separate mini-game engines to expand on principles from the animator project.
+•	Introduced active input, interaction with objects, switches, and screen movement.
 
-     Video Demo 1: https://youtu.be/nOJP3kSv3BE
-     Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
+Video Demo 1: https://youtu.be/nOJP3kSv3BE
+Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
 
 **Project 2: Reinforced Learning for Omok: Project Overview**  <br />
@@ -43,7 +43,18 @@ Refer to APPENDIX for model diagram.
  <br />
  <br />
  <br />
-
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
 
 
 
