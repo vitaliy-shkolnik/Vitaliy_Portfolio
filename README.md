@@ -8,7 +8,8 @@ Computer Science Projects
 •	Language: Java
 •	Description: Create an animator model, view, and controller using OOP principles.
 •	Model takes in .txt file, parses it, and outputs an animation.
-    refer to APPENDIX for model diagram. 
+   
+refer to APPENDIX for model diagram. 
 
 **Followup:**
 •	Created two separate mini-game engines to expand on principles from the animator project.
