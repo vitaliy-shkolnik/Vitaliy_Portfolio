@@ -9,13 +9,13 @@ Computer Science Projects
 •	Description: Create an animator model, view, and controller using OOP principles. <br />
 •	Model takes in .txt file, parses it, and outputs an animation. <br />
    
-Refer to APPENDIX for model diagram. 
+
 
 **Followup:**
 •	Created two separate mini-game engines to expand on principles from the animator project.
 •	Introduced active input, interaction with objects, switches, and screen movement.
 
-Video Demo 1: https://youtu.be/nOJP3kSv3BE
+Video Demo 1: https://youtu.be/nOJP3kSv3BE <br />
 Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
 
@@ -38,30 +38,6 @@ Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
 
 
-
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
-
-
-
-
-**APPENDIX**
-
-![](Figure1-DataStructure.png)
 
 
 
