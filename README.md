@@ -33,7 +33,7 @@ Video Demo 2: https://www.youtube.com/watch?v=Xqp5Wpj5Hu4
 
   Pre-Processing Data: Under/Over Sampling, CrossFold Validation, count/tf-idf vectorization <br />
   Data Exploration: T-SNE mapping, Word2Vec <br />
-  Models: Naive Bayes, Support Vector Machine, XGboost <br />
+  Models: Naive Bayes, Support Vector Machine, XGboost, custom tensorflow network <br />
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
 
