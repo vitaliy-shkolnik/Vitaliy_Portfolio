@@ -1,8 +1,3 @@
-# Vitaliy's Portfolio
-
-
-
-
 
 **Project 1: MVC Animator Player: Project Overview**  <br />
 •	Language: Java  <br />
