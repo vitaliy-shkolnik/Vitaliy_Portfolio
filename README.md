@@ -9,7 +9,7 @@ Computer Science Projects
 •	Description: Create an animator model, view, and controller using OOP principles.
 •	Model takes in .txt file, parses it, and outputs an animation.
    
-refer to APPENDIX for model diagram. 
+Refer to APPENDIX for model diagram. 
 
 **Followup:**
 •	Created two separate mini-game engines to expand on principles from the animator project.
@@ -35,6 +35,15 @@ refer to APPENDIX for model diagram.
       Data Exploration: T-SNE mapping, Word2Vec
       Models: Naive Bayes, Support Vector Machine, XGboost
       Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy
+
+
+
+
+
+
+
+
+
 
 
 
