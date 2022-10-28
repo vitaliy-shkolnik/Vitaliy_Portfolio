@@ -1,5 +1,5 @@
-# Vitaliy_Portfolio
-Computer Science Projects
+# Vitaliy's Portfolio
+
 
 
 
