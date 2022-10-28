@@ -5,7 +5,7 @@ Computer Science Projects
 
 
 **Project 1: MVC Animator Player: Project Overview**
-•	Language: Java
+•	Language: Java <br/>
 •	Description: Create an animator model, view, and controller using OOP principles.
 •	Model takes in .txt file, parses it, and outputs an animation.
    
