@@ -3,8 +3,9 @@
 •	Language: Java  <br />
 •	Description: Create an animator model, view, and controller using OOP principles. <br />
 •	Model takes in .txt file, parses it, and outputs an animation. <br />
-   
-[link text] (https://www.youtube.com/watch?v=ieRlmtfOmyU)
+
+##Links
+[link text](https://www.youtube.com/watch?v=ieRlmtfOmyU)
 
 **Followup:** <br />
 •	Created two separate mini-game engines to expand on principles from the animator project.<br />
