@@ -1,4 +1,5 @@
 
+
 **Project 1: MVC Animator Player: Project Overview**  <br />
 •	Language: Java  <br />
 •	Description: Create an animator model, view, and controller using OOP principles. <br />
@@ -7,7 +8,7 @@
 
 [Video Demo 1](https://www.youtube.com/watch?v=ieRlmtfOmyU)
 
-**Followup:** <br />
+**Followup, self-learning:** <br />
 •	Created two separate mini-game engines to expand on principles from the animator project.<br />
 •	Introduced active input, interaction with objects, switches, and screen movement. <br />
 
