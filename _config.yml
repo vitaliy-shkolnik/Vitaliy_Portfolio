@@ -5,7 +5,7 @@ exclude:
 sass:
   style: :compressed
 
-theme: jekyll-theme-Midnight
+theme: jekyll-theme-Minima
 
 github:
   private: false
