@@ -5,7 +5,7 @@ exclude:
 sass:
   style: :compressed
 
-theme: jekyll-theme-leap day
+theme: jekyll-theme-leapday
 
 github:
   private: false
