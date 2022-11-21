@@ -33,15 +33,7 @@
   Models: Naive Bayes, Support Vector Machine, XGboost, custom tensorflow network <br />
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
-
-
-
-
-
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](BaseLine.png) |  ![](NLP.png)
+ ![](NLP.png)
 
 
 
