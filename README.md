@@ -34,14 +34,14 @@
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
 
+
+
+
+
+
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](NLP.png)  |  ![](BaseLine.png)
-
-
-
-
-
-
+![](BaseLine.png) |  ![](NLP.png)
 
 
 
