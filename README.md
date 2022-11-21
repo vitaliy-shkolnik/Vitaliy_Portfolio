@@ -33,8 +33,6 @@
   Models: Naive Bayes, Support Vector Machine, XGboost, custom tensorflow network <br />
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
-Graph           |  BaseLine
-:-------------------------:|:-------------------------:
 ![](NLP.png)  |  ![](BaseLine.png)
 
 
