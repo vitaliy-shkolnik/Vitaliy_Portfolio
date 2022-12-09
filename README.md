@@ -34,6 +34,7 @@
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
  ![](NLP.png)
+ ![](tsne.png)
 
 
 
