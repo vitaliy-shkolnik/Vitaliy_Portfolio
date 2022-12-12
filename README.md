@@ -26,7 +26,7 @@
 
 **Project 3: Insurance NLP: Project Overview**  <br />
 • Language: Python  <br />
-• Description: Pre-process real unstructured insurance data (100k entries) and automate the process of categorization using short free-form text descriptions. 
+• Description: Pre-process real unstructured insurance data (100k entries) and automate categorization process using short free-form text descriptions. 
 
   Pre-Processing Data: Under/Over Sampling, CrossFold Validation, count/tf-idf vectorization <br />
   Data Exploration: T-SNE mapping and Heatmapping <br />
