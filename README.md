@@ -24,13 +24,13 @@
 ![](AI_project.png)
 
 
-**Project 3: Insurance NLP: Project Overview, Work in Progress**  <br />
+**Project 3: Insurance NLP: Project Overview**  <br />
 • Language: Python  <br />
-• Description: Pre-process real unstructured data (100k entries) from an insurance company and automate the process of taking reported injuries and categorizing them     correctly. The project aims to accurately predict the cause of injury using short free-form text descriptions.  <br />
+• Description: Pre-process real unstructured insurance data (100k entries) and automate the process of categorization using short free-form text descriptions. 
 
   Pre-Processing Data: Under/Over Sampling, CrossFold Validation, count/tf-idf vectorization <br />
-  Data Exploration: T-SNE mapping, Word2Vec <br />
-  Models: Naive Bayes, Support Vector Machine, XGboost, custom tensorflow network <br />
+  Data Exploration: T-SNE mapping and Heatmapping <br />
+  Models: Naive Bayes, Support Vector Machine, XGboost,  <br />
   Evaluation: Data visualization, cross-validation, confusion matrix, F1 score, and accuracy <br />
 
  ![](NLP.png)
