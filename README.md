@@ -35,7 +35,7 @@
 
  ![](NLP.png)
  ![](t-sne.png)
-  ![](Ablation.png)
+ ![](Ablation.png)
 
 
 
